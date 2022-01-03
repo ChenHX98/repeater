@@ -1,2 +1,2 @@
 # repeater
-a repeater for english
+a repeater for english learning
